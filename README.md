@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **samsnwn/samsnwn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello World! 👋
+
+I'm a Full-Stack Developer currently studying at 42 Berlin, where I'm honing my programming and problem-solving skills through hands-on, peer-to-peer learning. My background combines software development with technical support and event technology management, giving me a unique perspective on building user-focused applications. I'm passionate about creating clean, scalable web solutions and continuously improving my craft.
+
+🚀 **What I'm Currently Working On**
+
+- Building full-stack web applications with Next.js, React, and TypeScript
+- Working on projects at 42 Berlin to deepen my understanding of algorithms and low-level programming
+- Developing a developer matching platform with real-time features using PostgreSQL and Drizzle ORM
+- Exploring best practices in authentication, database design, and modern web architecture
+
+🛠️ **Tools I Use**
+- Frontend: React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
+- Backend: Node.js, PostgreSQL, Drizzle ORM, NextAuth
+- Tools: Git, GitHub, VS Code, Vercel, npm
+- Currently Learning: Advanced algorithms, system design, Docker
+
+📫 **How to Reach Me**
+
+- LinkedIn: www.linkedin.com/in/samuelcglantz
+
+Location: Berlin, Germany
