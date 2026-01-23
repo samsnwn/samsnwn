@@ -21,7 +21,6 @@ I'm a Full-Stack Developer currently studying at 42 Berlin, where I'm honing my 
 
 - Building full-stack web applications with Next.js, React, and TypeScript
 - Working on projects at 42 Berlin to deepen my understanding of algorithms and low-level programming
-- Developing a developer matching platform with real-time features using PostgreSQL and Drizzle ORM
 - Exploring best practices in authentication, database design, and modern web architecture
 
 🛠️ **Tools I Use**
