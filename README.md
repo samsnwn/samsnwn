@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello World! 👋
 
-I'm a Full-Stack Developer currently studying at 42 Berlin, where I'm honing my programming and problem-solving skills through hands-on, peer-to-peer learning. My background combines software development with technical support and event technology management, giving me a unique perspective on building user-focused applications. I'm passionate about creating clean, scalable web solutions and continuously improving my craft.
+I'm Samuel, a Full-Stack Developer currently studying at 42 Berlin, where I'm honing my programming and problem-solving skills through hands-on, peer-to-peer learning. My background combines software development with technical support and event technology management, giving me a unique perspective on building user-focused applications. I'm passionate about creating clean, scalable web solutions and continuously improving my craft.
 
 🚀 **What I'm Currently Working On**
 
@@ -24,9 +24,10 @@ I'm a Full-Stack Developer currently studying at 42 Berlin, where I'm honing my 
 - Exploring best practices in authentication, database design, and modern web architecture
 
 🛠️ **Tools I Use**
-- Frontend: React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
-- Backend: Node.js, PostgreSQL, Drizzle ORM, NextAuth
-- Tools: Git, GitHub, VS Code, Vercel, npm
+- Languajes; JavaScript/Typescript, C/C++
+- Frontend: React, Next.js, Tailwind CSS, shadcn/ui
+- Backend: Node.js, PostgreSQL, Drizzle ORM, RESTful API
+- Tools: Git, GitHub, Vercel, npm
 - Currently Learning: Advanced algorithms, system design, Docker
 
 📫 **How to Reach Me**
